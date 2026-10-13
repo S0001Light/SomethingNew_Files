@@ -1,2 +1,3 @@
 Formatter 16GB Flash Drive = 1 hour to complete = 1 time
 WTOTAL.EXE works in windows 3.11 workgroup, is a calculator to check bank accounts, similar...
+WJCAL311 is a calendar the works with windows 3.11 workgroup.
